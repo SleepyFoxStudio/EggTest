@@ -39,7 +39,7 @@ If any of the tests fail, or you want a breakdown of steps, click on the *Open a
 
 ### Coding style
 
-Coding guidelines, are default Resharper recomendations.
+Coding guidelines, are default Resharper recommendations.
 
 ## Deployment
 
